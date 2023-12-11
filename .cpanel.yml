@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/linzie/data.bukancoders.com
+    - export DEPLOYPATH=/home/linzie/pdf.bukancoders.com
     - /bin/cp -r * $DEPLOYPATH
